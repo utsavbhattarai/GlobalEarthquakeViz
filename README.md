@@ -2,7 +2,7 @@
 Global Earthquake Visualization from 1900 - 2023
 
 # Data source
-https://www.kaggle.com/datasets/jahaidulislam/significant-earthquake-dataset-1900-2023?resource=download
+<a href="https://www.kaggle.com/datasets/jahaidulislam/significant-earthquake-dataset-1900-2023?resource=download">Data Source</a>
 
 
 
